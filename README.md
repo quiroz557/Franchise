@@ -12,7 +12,7 @@ en el application.properties
 - spring.jpa.hibernate.ddl-auto=${SPRING_JPA_HIBERNATE_DDL_AUTO}
 - spring.jpa.properties.hibernate.dialect=${SPRING_JPA_PROPERTIES_HIBERNATE_DIALECT}
 
-- env_variables:
+- env_variables (Esto es para GCP) si se ejecuta local no hay necesidad de esto:
     - SPRING_DATASOURCE_URL: <your_my_sql>
     - SPRING_DATASOURCE_USERNAME: <your_username<
     - SPRING_DATASOURCE_PASSWORD: <your password>
