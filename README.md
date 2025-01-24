@@ -1,4 +1,4 @@
-PRUEBA PARA EMPRESA ACCENTURE
+PRUEBA PARA EMPRESA
 
 Para ejecutar el proyecto debes tener las siguientes variables de entorno y configurarlas 
 en el application.properties
